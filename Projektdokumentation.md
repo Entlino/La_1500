@@ -32,7 +32,6 @@ Wir wollen mithilfe von Unity einen Endless-Runner programmieren, bei dem man ve
 |   8  |Kann             |R     | Als ein Benutzer möchte ich dass, man im Shop sein Münzen loswerden kann, damit ich sie öfters sammle. | 
 |   9  |Muss             |Q     | Als ein Benutzer möchte ich dass, man Superitems aufsammeln kann, damit der Spielspass erhöht wird. | 
 |  10  |Muss             |F     | Als ein Benutzer möchte ich dass, man Hindernissen ausweichen muss, damit es eine Herausforderung ist. |
-✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
 ### 1.3 Testfälle
 
